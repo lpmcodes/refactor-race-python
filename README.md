@@ -3,6 +3,7 @@
 ## EQUIPE
 - Guilherme de Oliveira Navais - 4251923674
 - Anthony Rafael Braga Magalhães - 4251924039
+- Lucas Paiva Magalhães - 4251925101
 
 ## DESCRIÇÃO
 Projeto de refatoração, testes automatizados e análise de qualidade de software aplicado a um módulo legado de processamento de pedidos (`legacy_checkout.py`), buscando reduzir a complexidade ciclomática e aumentar a manutenibilidade preservando 100% do comportamento original.
